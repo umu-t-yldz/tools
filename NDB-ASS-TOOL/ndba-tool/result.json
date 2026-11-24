@@ -1,0 +1,2364 @@
+[
+  {
+    "target": "staging.amediatech.net",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "svr.erc200.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "6f4j4pyr.thefloorpavilion.com",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "thefloorpavilion.com",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "tccvi9a3.techfilipino.com",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "techfilipino.com",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "s7yew7r5.topbrandsvault.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "topbrandsvault.com",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "00yo0m32.zalfa.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "hs3ayvtg.nowfromhome.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "nowfromhome.com",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "cubitnet.xyz",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "ziggimfk.paulmccartneylookalike.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "paulmccartneylookalike.com",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "ta0of384.ceoinsurancecorp.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "3aymn8vx.zuppy.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "zuppy.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "howp.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "7hyivy4s.parentingemagazine.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "parentingemagazine.com",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "x4niye0b.zayce.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "paladinet.xyz",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "zayce.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "qm61zn7u.taksims.click",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "taksims.click",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "forent.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "uo2dxbwa.yanok.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "4wvqo1ck.orendastudios.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "orendastudios.com",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "g0412huo.playstationrepublic.games",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "playstationrepublic.games",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "unr4lyz6.pruebasrhglobal.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "2cxhrha9.tucargaseguraceo.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "m6s1xhs0.oakislandtheories.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "l41qo5zx.pctechtime.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "u2vmpv55.northernwaytransportcompact.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "9hus6cho.sanbo.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "a6pj4d7y.libersity.mx",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "a5oftyxp.pawrangers.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "kaben.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "rmxsdyr0.paulmccartneylookalike.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "jf91cwhm.ceoinsurancecorp.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "ceoinsurancecorp.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "p7ga4syg.parentingemagazine.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "al09.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "qospm39z.oakislandtheories.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "ha5k13ld.zalfa.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "zalfa.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "kry1nbxw.orendastudios.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "cyqagbjw.nowfromhome.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "taabwk78.yanok.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "yanok.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "v2zz7b4w.zodi.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "1h415f5k.northernwaytransportcompact.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "s9pg0jiu.tucargaseguraceo.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "tucargaseguraceo.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "7jrmp81v.taksim-fil.click",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "taksim-fil.click",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "84iuved4.zere.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "pzzao3th.northcountrygentleacupuncture.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "5rz2ao41.sanbo.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "sanbo.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "uno3tnh3.zenzy.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "mmecsq1t.pruebasrhglobal.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "pruebasrhglobal.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "5m48xpxq.bossbeyclub.click",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "5h30holu.zayce.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "ddf8ckm4.movilidadacademica.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "el9cbtud.ceoinsurancecorp.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "3kf2y0pr.taksims.click",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "wu71txkw.libersity.mx",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "libersity.mx",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "ariuc8vw.ceomutual.com.mx",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "ceomutual.com.mx",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "2xxu139r.americaspadel.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "jzizfiq2.northernwaytransportcompact.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "northernwaytransportcompact.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "iv368fvf.adeac.com.mx",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "gem4jv80.pawrangers.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "2773iaa7.playstationrepublic.games",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "feszuncp.northcountrygentleacupuncture.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "northcountrygentleacupuncture.com",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "wuhx6rci.orendastudios.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "uf594a5q.paulmccartneylookalike.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "l0r6tp8f.pctechtime.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "gkr01b2f.newstechtoday.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "newstechtoday.com",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "dug17jle.oakislandtheories.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "ippis.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "tauzzvhy.zuppy.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "6rdlitaa.parentingemagazine.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "d32asogi.msd-europe.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "msd-europe.com",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "8w9hvvdk.zodi.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "d037tqeu.movilidadacademica.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "movilidadacademica.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "vcuvrehd.taksim-fil.click",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "dc55crk8.nowfromhome.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "g78mdqih.zere.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "sg02vvao.midwayammunition.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "midwayammunition.com",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "sisterleveling.com",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "q4c08cds.tafti.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "d6au5tb1.zenzy.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "b1pfe9kx.metaphysicsbooks.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "metaphysicsbooks.com",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "s3ojzej3.sishi.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "l50j1wge.zayce.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "rp54mimk.meibuhr.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "meibuhr.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "0ln8r6lz.sidar.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "52s8sojv.zalfa.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "meatronic.us.com",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "9f4akq5z.yanok.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "dp866jpu.lmshumate.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "lmshumate.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "tqpryu0a.sanbo.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "livingattheopera.com",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "80vgqnfx.xeros.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "afrmomn0.livingattheopera.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "4qktmvoy.pruebasrhglobal.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "isflafe0.tucargaseguraceo.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "90xfksds.americaspadel.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "americaspadel.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "al08.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "r63o8kfc.ceomutual.com.mx",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "al07.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "al06.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "agwe.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "adminbigprint.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "3iksoaw0.tpdistanbul.com",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "83754ka9.ceoinsurancecorp.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "uidqaxan.libersity.mx",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "d65vnso5.adeac.com.mx",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "adeac.com.mx",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "9uu08koj.taksims.click",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "10city.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "ho7y2fbj.tpdistanbul.com",
+    "category": "domain",
+    "status": "connected"
+  },
+  {
+    "target": "flex0.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "fadr.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "etuq.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "daoy.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "cytek.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "crnu.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "corcep.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "yk7ypehn.taksims.click",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "8mgpcoe4.adeac.com.mx",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "cepot.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "c4base.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "bxvc.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "bocoi.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "betbr.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "asimo.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "aqtis.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "7e0pcdh8.taksim-fil.click",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "al10.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "mwgabtho.trun.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "gghqg3fp.texbo.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "c65wje4f.zere.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "banqjhmk.vancez.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "d3ufyw0m.tarax.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "tarax.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "q7alfk3i.ular.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "17r3cd1e.zalfa.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "lhtfx0yq.tafti.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "tafti.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "giyxfaf2.sidar.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "5qu3fpr4.yanok.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "n1nrcs2e.udap.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "1lxfgnqj.opticademichoacan.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "opticademichoacan.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "fjpqyhix.cubitnet.xyz",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "17j2n74w.libersity.mx",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "q8w4n7c5.elpaladin.net",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "elpaladin.net",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "gyfq7acl.tucargaseguraceo.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "gptfe3dd.ceomutual.com.mx",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "8ogpgd5z.xeros.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "xeros.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "gfau369m.ceoinsurancecorp.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "zrahn1he.pruebasrhglobal.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "wecup.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "fpp242uz.wecup.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "ikzfv0wn.telun.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "u0vx6hu0.americaspadel.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "0a2we86z.tasma.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "l3qi5697.zenzy.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "v38e4zrp.adminbigprint.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "myjazfov.sishi.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "sishi.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "ulb18ixh.zayce.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "a00e2eok.sanbo.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "9e5nx7qm.sidar.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "sidar.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "vivea.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "vq8m3920.zalfa.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "trun.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "vancez.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "m12pl989.yanok.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "ular.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "gwfshj13.zodi.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "udap.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "79oafpn7.zere.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "texbo.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "qbbq51d6.zenzy.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "telun.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "hz0pdzsw.zayce.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "tasma.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "osira.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "1n060nam.zalfa.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "ometv.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "6ek8lbik.sagex.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "olmax.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "c911rjp1.ruhus.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "nunza.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "p9z5yvie.rodac.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "nordo.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "2q942xck.rochi.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "nibol.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "s7lgx4no.rochi.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "337u6zp1.retica.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "k7spnoil.ranta.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "fhqz6gm8.gomas.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "mkac2tdb.gofur.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "in71deke.geted.site",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "adnr61y8.gesra.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "n5ht1wk6.cojo.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "bflgkza0.gerve.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "3k1qo64l.etext.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "2z9voqdn.cetek.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "07gbnpr7.gedam.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "8ekmqofg.ebaz.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "s5e7xnaa.celar.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "83uae7er.garla.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "r87qvncm.dilma.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "aliu90ww.gamev.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "gamev.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "519trguq.gorti.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "ee3pb36f.galsab.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "4gpkk0qy.devam.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "glkk0b2o.gagu.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "gagu.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "5c0x3yjo.gomas.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "050ttxvn.dashu.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "wv2opp5z.fuzy.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "fuzy.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "j9aln2cd.gofur.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "pi1k09kz.fi1.site",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "fi1.site",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "leknswn8.dapeng.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "ffla2g8z.geted.site",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "ku9qh5tr.falaq.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "falaq.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "uao2s9o1.dambo.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "c0zp8sxj.gesra.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "a2v4fh5o.evna.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "evna.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "dace6jen.corep.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "d1zaj639.evine.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "evine.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "37r7g484.gerve.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "2uh5cgod.etext.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "rqemokw3.cojo.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "etext.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "mhwsjezc.gendes.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "r5vxurxp.ebaz.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "i2sugj15.cetek.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "3zpdh4ci.gedam.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "lwasjncs.dilma.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "dilma.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "8diou96v.celar.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "l29jvg69.garla.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "bs063rhe.didor.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "didor.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "l2mqhwdc.freepurewater.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "stig5cvv.dibay.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "dibay.store",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "lzssroq6.hlepump.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "sttu1wkx.dubaimarinalife.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "xk2hqote.fpikiogankomeringilir.org",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "galk6043.gundamaustralia.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "fkh6k3kt.doen.coach",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "6z9avc52.fpikilubuklinggau.org",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "nqaznb13.gregoiredenysse.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "7ol955wt.dixierider.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "dixierider.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "vrzy0gxr.familymeal.restaurant",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "2bkpjtos.greatbettinginfo.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "kpneuqgc.dillonmuseum1.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "dillonmuseum1.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "dictionarvise.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "cahjax2x.everythingpicnic.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "aatyg3a4.deocultismo.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "deocultismo.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "9rc1op44.geturoflow.app",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "9qniujf7.conflict-uk.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "conflict-uk.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "cql1sjv2.erementar-gerad.online",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "0899gsml.fwdtheatre.org",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "dve4us1d.coffeeshopcrawler.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "coffeeshopcrawler.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "xddzhv89.eps411.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "5kkzdxjy.funnyscore.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "rz8whp3p.citafm1.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "lm23tnez.egydes.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "6llgnbbe.fun4pic.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "zctk3xbz.chrysalis-its.work",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "chrysalis-its.work",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "94lxmbqa.ecoshoreline.org",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "2h1j0qtt.caryturf.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "caryturf.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "4r6b0iom.verticalrewards.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "pey7qyul.aminjauhary.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "aminjauhary.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "wfaf6zon.bournemouthchess.club",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "z6g263qc.canadianweb.org",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "amanahtotocool.us.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "eivirtz4.beecliffpress.com",
+    "category": "domain",
+    "status": "not_connected",
+    "error": "unreachable via http/https"
+  },
+  {
+    "target": "211.230.3.71",
+    "category": "ip",
+    "status": "connected"
+  },
+  {
+    "target": "64.227.178.166",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "64.176.21.112",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "139.84.232.105",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "65.20.108.15",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "68.183.229.72",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "65.20.104.205",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "95.179.234.59",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "217.69.2.143",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "201.79.60.54",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "64.176.22.37",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "64.176.171.161",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "216.238.86.105",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "85.155.15.114",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "213.193.244.46",
+    "category": "ip",
+    "status": "connected"
+  },
+  {
+    "target": "48.102.206.68",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "178.95.255.21",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "177.3.208.56",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "94.154.43.120",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "95.179.213.237",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "45.61.137.152",
+    "category": "ip",
+    "status": "connected"
+  },
+  {
+    "target": "146.190.228.75",
+    "category": "ip",
+    "status": "connected"
+  },
+  {
+    "target": "136.244.98.190",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "136.244.109.247",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "139.59.57.176",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "104.64.15.245",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "170.64.164.97",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "144.172.95.57",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "144.172.95.49",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "144.172.95.48",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "144.172.95.47",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "144.172.95.46",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "82.27.201.212",
+    "category": "ip",
+    "status": "connected"
+  },
+  {
+    "target": "196.251.121.142",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "188.137.153.54",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "38.60.242.188",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "38.60.224.210",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "38.60.157.46",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "130.94.94.247",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "130.94.8.91",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "167.99.219.42",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "172.86.71.149",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "172.86.71.148",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "54.37.130.73",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "51.161.83.96",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "103.163.214.155",
+    "category": "ip",
+    "status": "connected"
+  },
+  {
+    "target": "103.163.214.157",
+    "category": "ip",
+    "status": "connected"
+  },
+  {
+    "target": "103.163.214.168",
+    "category": "ip",
+    "status": "connected"
+  },
+  {
+    "target": "128.1.40.11",
+    "category": "ip",
+    "status": "connected"
+  },
+  {
+    "target": "152.32.153.71",
+    "category": "ip",
+    "status": "connected"
+  },
+  {
+    "target": "165.154.119.12",
+    "category": "ip",
+    "status": "connected"
+  },
+  {
+    "target": "212.193.31.219",
+    "category": "ip",
+    "status": "connected"
+  },
+  {
+    "target": "45.76.161.8",
+    "category": "ip",
+    "status": "connected"
+  },
+  {
+    "target": "45.77.62.178",
+    "category": "ip",
+    "status": "connected"
+  },
+  {
+    "target": "64.176.16.182",
+    "category": "ip",
+    "status": "connected"
+  },
+  {
+    "target": "93.127.133.123",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "104.251.180.214",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "145.239.135.246",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "162.19.132.48",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "51.89.224.136",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "178.128.222.69",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "188.166.244.198",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "206.189.132.151",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "64.227.70.4",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "64.227.78.25",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "178.128.120.217",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "167.99.141.182",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "165.232.183.248",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "165.232.118.180",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "165.227.40.189",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "165.227.38.82",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "165.227.231.9",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "165.227.143.154",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "164.92.203.129",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "159.203.3.52",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "144.126.192.202",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "139.59.92.114",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "139.59.58.118",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "137.184.174.149",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "134.209.100.51",
+    "category": "ip",
+    "status": "not_connected",
+    "error": "tcp connect timeout or refused"
+  },
+  {
+    "target": "103.163.214.137",
+    "category": "ip",
+    "status": "connected"
+  },
+  {
+    "target": "103.163.214.135",
+    "category": "ip",
+    "status": "connected"
+  }
+]
